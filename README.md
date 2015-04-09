@@ -1,1 +1,2 @@
-===Computer Vision Resource Collection
+Computer Vision Resource Collection
+===================================
