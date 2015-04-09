@@ -1,6 +1,6 @@
 Reseachers of computer vision
 =============================
-(notes:isted in a random order in the category)
+(Notes: listed in a random order in the category)
 ***
 
 
